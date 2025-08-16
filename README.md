@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Jeobele! 
 
-<!--
-**JeobeleSLU/JeobeleSLU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🔭 I'm A student still learning technologies!
+- 🌱 I’m learning Software Engineering, DevOps, and WebTechnologies
+- 💬 Ask me about Java,Kotlin , Lua, or any Backend stuff 
+- 📫 How to reach me: [jeobelecedeno163@email.com](mailto:jeobelecedeno163@gmail.com)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- WIP I'm still trying to learn! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Jeobele's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeobeleSLU&show_icons=true&theme=radical)
+
+
