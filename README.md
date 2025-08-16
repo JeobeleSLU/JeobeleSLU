@@ -14,7 +14,7 @@
 ![Jeobele's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeobeleSLU&show_icons=true&theme=radical)
 
 ## 📊 GitHLab Stats
-![Jeobele's Gitlab stats](https://gitlab-readme-stats-git-main-jeobeles-projects.vercel.app/api?username=2241615&show_icons=true)
+![Jeobele's Gitlab stats](https://gitlab-readme-stats-wheat.vercel.app/api?username=2241615&show_icons=true)
 
 
 
