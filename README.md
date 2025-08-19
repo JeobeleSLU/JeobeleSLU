@@ -7,7 +7,7 @@
 - 📫 How to reach me: [jeobelecedeno163@email.com](mailto:jeobelecedeno163@gmail.com)
 
 ## 🚀 Projects
-- [Discord Bot Grow A Garden](https://github.com/JeobeleSLU/GrowAGardenDiscordBot) – A discord bot that will monitor stacks and send the current stocks
+- [Discord Bot Grow A Garden](https://github.com/JeobeleSLU/GrowAGardenDiscordBot) – A discord bot that will monitor stocks and send the current stocks
 - WIP I'm still trying to learn! 
 
 
