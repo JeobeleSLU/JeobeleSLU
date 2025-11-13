@@ -23,7 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" alt="Kotlin / KMP" width="80" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" alt="Kotlin / KMP" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" alt="MySQL / KMP" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="GIT / KMP" width="80" height="80" />
+  
   
 </div>
 
