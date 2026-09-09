@@ -6,10 +6,6 @@
 - 💬 Ask me about Java,Kotlin , Lua, or any Backend stuff 
 - 📫 How to reach me: [jeobelecedeno163@email.com](mailto:jeobelecedeno163@gmail.com)
 
-## 🚀 Projects
-- [Discord Bot Grow A Garden](https://github.com/JeobeleSLU/GrowAGardenDiscordBot) – A discord bot that will monitor stocks and send the current stocks
-- WIP I'm still trying to learn! 
-
 ## Activity 📊
 - ![WakaTime Stats](https://wakatime.com/share/@83e881f9-3c87-4036-9815-c9ff974346ef/809936dc-9b09-44e5-a695-4b207eeefacc.svg)
 
